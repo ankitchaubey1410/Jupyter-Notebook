@@ -8,13 +8,13 @@ Jupyter Notebook is an interactive computing environment that combines code, exp
 
 ✨ Why Jupyter Notebook?
 
-* 🧩 Interactive — Run code cell by cell and see results instantly
-* 📊 Visualization — Create charts, graphs, and plots directly inside the notebook
-* 📝 Documentation — Combine Markdown, equations, images, and code
-* 🧪 Experimentation — Test ideas without running an entire program
-* 🧠 Learning Friendly — Perfect for programming practice and numerical methods
-* 🔬 Scientific Computing — Work with mathematics, statistics, and simulations
-* 🌐 Open Source — Free and supported by a large ecosystem
+- 🧩 Interactive — Run code cell by cell and see results instantly
+- 📊 Visualization — Create charts, graphs, and plots directly inside the notebook
+- 📝 Documentation — Combine Markdown, equations, images, and code
+- 🧪 Experimentation — Test ideas without running an entire program
+- 🧠 Learning Friendly — Perfect for programming practice and numerical methods
+- 🔬 Scientific Computing — Work with mathematics, statistics, and simulations
+- 🌐 Open Source — Free and supported by a large ecosystem
 
 ---
 
@@ -166,15 +166,15 @@ Jupyter Notebook is especially useful for implementing and visualizing numerical
 
 Common topics include:
 
-* 🎯 Bisection Method
-* 🔁 Regula Falsi Method
-* 🚀 Newton-Raphson Method
-* 📐 Lagrange Interpolation
-* 📊 Newton Forward Interpolation
-* 📉 Newton Backward Interpolation
-* 🧮 Numerical Integration
-* 🔢 Numerical Differentiation
-* 🧩 Solving Systems of Equations
+- 🎯 Bisection Method
+- 🔁 Regula Falsi Method
+- 🚀 Newton-Raphson Method
+- 📐 Lagrange Interpolation
+- 📊 Newton Forward Interpolation
+- 📉 Newton Backward Interpolation
+- 🧮 Numerical Integration
+- 🔢 Numerical Differentiation
+- 🧩 Solving Systems of Equations
 
 Example:
 
@@ -208,15 +208,15 @@ Shortcut| Action
 
 🧠 Best Practices
 
-* 📌 Keep notebooks organized with clear headings
-* 📝 Explain important code using Markdown
-* 🧩 Break large programs into smaller cells
-* 🔢 Display intermediate results when solving numerical problems
-* 📊 Visualize results whenever possible
-* 🧹 Keep code clean and readable
-* 🔄 Run cells in a logical order
-* ⚠️ Restart the kernel and run all cells before submitting a notebook
-* 💾 Save your notebook regularly
+- 📌 Keep notebooks organized with clear headings
+- 📝 Explain important code using Markdown
+- 🧩 Break large programs into smaller cells
+- 🔢 Display intermediate results when solving numerical problems
+- 📊 Visualize results whenever possible
+- 🧹 Keep code clean and readable
+- 🔄 Run cells in a logical order
+- ⚠️ Restart the kernel and run all cells before submitting a notebook
+- 💾 Save your notebook regularly
 
 ---
 
